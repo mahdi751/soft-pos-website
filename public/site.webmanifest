@@ -1,0 +1,17 @@
+{
+  "name": "Soft Pos",
+  "short_name": "Soft Pos",
+  "description": "Integrated digital solutions for POS, ordering, websites, apps, and business operations.",
+  "theme_color": "#19312b",
+  "background_color": "#f5efe5",
+  "display": "standalone",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

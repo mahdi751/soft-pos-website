@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
+  <rect width="180" height="180" rx="40" fill="#10211d" />
+  <circle cx="90" cy="90" r="62" fill="#be7b42" />
+  <circle cx="90" cy="90" r="44" fill="#3c6b5d" opacity="0.85" />
+  <text
+    x="90"
+    y="104"
+    font-family="Arial, sans-serif"
+    font-size="52"
+    text-anchor="middle"
+    font-weight="700"
+    fill="#fffaf3"
+  >
+    SP
+  </text>
+</svg>

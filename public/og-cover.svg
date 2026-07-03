@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#10211d" />
+      <stop offset="50%" stop-color="#19312b" />
+      <stop offset="100%" stop-color="#30564b" />
+    </linearGradient>
+    <linearGradient id="mark" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#be7b42" />
+      <stop offset="100%" stop-color="#f1cc8d" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <circle cx="898" cy="162" r="220" fill="#be7b42" opacity="0.14" />
+  <circle cx="1048" cy="444" r="180" fill="#fffaf3" opacity="0.08" />
+  <rect x="96" y="86" width="116" height="116" rx="32" fill="url(#mark)" />
+  <text x="154" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="48" font-weight="700" fill="#10211d">SP</text>
+  <text x="96" y="290" font-family="Georgia, serif" font-size="84" font-weight="700" fill="#fffaf3">Soft Pos</text>
+  <text x="96" y="374" font-family="Arial, sans-serif" font-size="34" fill="#d3ded8">
+    Digital solutions integrated to meet your business needs
+  </text>
+  <text x="96" y="432" font-family="Arial, sans-serif" font-size="26" fill="#d3ded8">
+    POS systems, online ordering, web experiences, mobile apps, and business platforms.
+  </text>
+</svg>

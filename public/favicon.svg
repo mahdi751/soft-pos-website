@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">Soft Pos favicon</title>
+  <desc id="desc">Circular Soft Pos monogram in warm bronze and green.</desc>
+  <defs>
+    <linearGradient id="g" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#be7b42" />
+      <stop offset="100%" stop-color="#3c6b5d" />
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="32" fill="#10211d" />
+  <circle cx="64" cy="64" r="44" fill="url(#g)" />
+  <path
+    d="M44 47.5c0-8.837 7.163-16 16-16h9c7.18 0 13 5.82 13 13s-5.82 13-13 13H58v8h14c8.837 0 16 7.163 16 16S80.837 97.5 72 97.5H43v-14h27c1.933 0 3.5-1.567 3.5-3.5S71.933 76.5 70 76.5H58c-7.732 0-14-6.268-14-14V47.5Z"
+    fill="#fffaf3"
+  />
+</svg>
