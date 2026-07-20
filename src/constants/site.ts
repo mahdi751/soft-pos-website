@@ -1,9 +1,9 @@
 export const siteConfig = {
   brandName: 'Soft POS',
   domain: 'https://softpos.ca',
-  phone: '(800) 123-6789',
+  phone: '1-329-3425',
   email: 'info@softpos.ca',
-  address: '158 Mcarthur Ave, Unit 3 Vanier, Ontario, K1L7E7',
+  address: '713 Alesther St, Ottawa ON K1K 3B4',
   hours: 'Office: 9:00 AM - 05:00 PM',
   tagline: 'Integrated digital solutions',
   heroTitle: 'Digital solutions integrated to meet your business needs',
